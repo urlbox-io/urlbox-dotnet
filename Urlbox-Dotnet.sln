@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Urlbox", "Urlbox\Urlbox.csproj", "{EB9CA65B-8F85-4CF9-913A-A8C75E72A926}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Urlbox.MsTest", "Urlbox.MsTest\Urlbox.MsTest.csproj", "{B9E8D269-174F-42C1-9569-FCA4CC8C05E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Urlbox.xUnit", "Urlbox.xUnit\Urlbox.xUnit.csproj", "{B547F383-6112-4C6D-9651-1FA35D5FF70F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB9CA65B-8F85-4CF9-913A-A8C75E72A926}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB9CA65B-8F85-4CF9-913A-A8C75E72A926}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB9CA65B-8F85-4CF9-913A-A8C75E72A926}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB9CA65B-8F85-4CF9-913A-A8C75E72A926}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9E8D269-174F-42C1-9569-FCA4CC8C05E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9E8D269-174F-42C1-9569-FCA4CC8C05E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9E8D269-174F-42C1-9569-FCA4CC8C05E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9E8D269-174F-42C1-9569-FCA4CC8C05E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B547F383-6112-4C6D-9651-1FA35D5FF70F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B547F383-6112-4C6D-9651-1FA35D5FF70F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B547F383-6112-4C6D-9651-1FA35D5FF70F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B547F383-6112-4C6D-9651-1FA35D5FF70F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
